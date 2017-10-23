@@ -2,3 +2,4 @@
 .idea
 *.iml
 Git/*.txt
+*.class
